@@ -18,6 +18,6 @@ Genomas completos de al menos 5 especies del género Treponema, de éstos, la ma
 
 4. Conversión de los archivos a fastq (formato para leer en pyrad)
 
-5. Ensamblaje de los fragmentos en pyrad. Este programa de correrá desde un contenedor Docker.
+5. Ensamblaje de los fragmentos en pyrad. Este programa se correrá desde un contenedor Docker.
 
 6. Desarrollo de una filogenia en RaxML. 
