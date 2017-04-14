@@ -17,8 +17,6 @@ Genomas completos de al menos 5 especies del género Treponema, de éstos, la ma
 
 3. Los fragmentos generados desde SimRad, serán exportados a un archivo tipo fasta, y se buscará su compresión.
 
-4. Realizaré el ensamblaje de las secuencias obtenidas en pyrad. 
+4. Realizaré el ensamblaje de las secuencias obtenidas en pyrad. Este programa se correrá desde un contenedor de Docker.
 
-5. Ensamblaje de los fragmentos en pyrad. Este programa se correrá desde un contenedor Docker.
-
-6. Desarrollo de una filogenia en RaxML. 
+5. Desarrollo de una filogenia en RaxML con los datos de los ensamblajes. 
