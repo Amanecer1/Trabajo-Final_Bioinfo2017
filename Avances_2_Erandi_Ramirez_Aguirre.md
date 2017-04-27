@@ -11,8 +11,6 @@ El avance de la tecnología (en particular, la computación) en conjunto con los
 
 ### Sistemas de estudio
 
-Las especies son:
-
 
 
 
