@@ -28,7 +28,7 @@ El avance de la tecnología (en particular, la computación) en conjunto con los
 | 10. *T. succinifasciens*| NC_015385.1 |
 
 
-Estas especies son bacterias que pueden ser patogénicas de humanos, conejos y vacas o pueden ser endosimbiontes facultativos u obligados de los tractos digestivos de termitas. Además, se ha propuesto que las diferentes formas de vida de las bacterias pueden implicar ganancia y pérdida de genes (Ochman y Moran 2001). Por su parte, las especies patogénicas tienen en su genoma un fragmento que codifica para los genes tprC, tprI, tprK, tprG y tprJ (Gray et al 2006). 
+Estas especies son bacterias que pueden ser patogénicas de humanos, conejos y vacas o pueden ser endosimbiontes facultativos u obligados de los tractos digestivos de termitas. Además, se ha propuesto que las diferentes formas de vida de las bacterias pueden implicar ganancia y pérdida de genes (Ochman y Moran 2001). Por su parte, las especies patogénicas tienen en su genoma, secuencias que codifican para los genes tprC, tprI, tprK, tprG y tprJ, asociados a su patogenicidad (Gray et al 2006). 
 
 ### Métodos seguidos
 
