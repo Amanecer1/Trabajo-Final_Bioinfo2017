@@ -53,7 +53,7 @@ o también, para bajar secuencias y guardarlas en una carpeta:
 
 Instalación del simulador SiLiCO (García-Baker et al. in press)
 
-A partir de una búsqueda de simuladores para generar secuencias en el buscador [Omics Tools](https://omictools.com/), realicé una búesqueda con las palabras "simulation assembly". Seleccioné el programa SiLiCO porque en la simulación permite dar valores de media y desviación estándar de los fragmentos [SiLiCO](https://github.com/ethanagbaker/SiLiCO). 
+A partir de una búsqueda de simuladores para generar secuencias en el buscador [Omics Tools](https://omictools.com/), realicé una búesqueda con las palabras "simulation assembly". Seleccioné el programa SiLiCO porque en la simulación permite dar valores de media y desviación estándar de los fragmentos (ver aquí [SiLiCO](https://github.com/ethanagbaker/SiLiCO) ). 
 He trabajado en Docker porque no quiero instalar nada que "mate" mi computadora. SiLiCO requiere trabajar con lenguaje python, por lo que descargué el contenedor con python, con este comando:
 
     docker pull python
