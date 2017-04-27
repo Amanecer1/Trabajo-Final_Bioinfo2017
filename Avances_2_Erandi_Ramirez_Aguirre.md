@@ -85,7 +85,7 @@ Corrí el programa con las cada secuencia por separado con los valores por defau
 
     python SiLiCO.py -i ../datos/ProyectoFinal_ERA/T.azonutricium.fasta -o ../datos/ProyectoFinal_ERA/T.azotonutricium_sil -p -m 10000 -s 2050 -c 9 trials=9
 
-El flag `-p` determina el tipo de plataforma, en este caso PacBio. Los otros comandos son `-m` es la longitud media de las lecturas, `-s` es la desviación estándar, `-c`es el coverage (el default es 8), y `trials` es el número de corridas (el default es 1).
+El flag `-p` determina el tipo de plataforma, en este caso PacBio. Los otros comandos son `-m` es la longitud media de las lecturas, `-s` es la desviación estándar, `-c` es el coverage (el default es 8), y `trials` es el número de corridas (el default es 1).
 
 Este programa genera archivos tipo bed. 
 
