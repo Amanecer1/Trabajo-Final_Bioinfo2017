@@ -92,7 +92,9 @@ Este programa genera archivos tipo bed.
 ### Literatura consultada
 
 Gray R. R., Mulligan . C.J, et al. 2006. Molecular evolution of the tprC, D, I, K, G, and J genes in the pathogenic genus *Treponema*. Mol. Biol. Evol. 23(11):2220-2233.
+
 Ochman H. and Moran N. A. 2001. Genes lost and genes found: evolution of bacterial pathogenesis and symbiosis. Science 292(5519):1096-1999.
+
 Roads, A. and Fai Au, K. 2015. PacBio Sequencing and Applications. Genomics, Proteomics and Bioinformatics 13(5): 278-289.
 
 
