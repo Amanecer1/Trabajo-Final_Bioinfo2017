@@ -18,16 +18,16 @@ Las especies son:
 
 | Especie | ID |
 -----------------------------------------------------------
-| 1. *T. azotonutricium* | NC_015577.1 |
-| 2. *T. brennaborense* | NC_015500.1 |
-| 3. *T. caldarium* | NC_015732.1 |
-| 4. *T. denticola* | NC_002967.9 |
-| 5. *T. pallidum* | NC_000919.1 |
-| 6. *T. paraluiscuniculi* | NC_015714.1 |
-| 7. *T. pedis* | NC_022097.1 |
-| 8. *T. primitia* | NC_015578.1 |
-| 9. *T. putidum* | NZ_CP009228.1 |
-| 10. *T. succinifasciens* | NC_015385.1 |
+| 1. *T. azotonutricium* || NC_015577.1 |
+| 2. *T. brennaborense* || NC_015500.1 |
+| 3. *T. caldarium* || NC_015732.1 |
+| 4. *T. denticola* || NC_002967.9 |
+| 5. *T. pallidum* || NC_000919.1 |
+| 6. *T. paraluiscuniculi* || NC_015714.1 |
+| 7. *T. pedis* || NC_022097.1 |
+| 8. *T. primitia* || NC_015578.1 |
+| 9. *T. putidum* || NZ_CP009228.1 |
+| 10. *T. succinifasciens* || NC_015385.1 |
 
 
 Estas especies son bacterias que pueden ser patogénicas de humanos, conejos y vacas o pueden ser endosimbiontes facultativos u obligados de los tractos digestivos de termitas. Además, se ha propuesto que las diferentes formas de vida de las bacterias pueden implicar ganancia y pérdida de genes (Ochman y Moran 2001). Por su parte, las especies patogénicas tienen en su genoma un fragmento que codifica para los genes tprC, tprI, tprK, tprG y tprJ (Gray et al 2006). 
