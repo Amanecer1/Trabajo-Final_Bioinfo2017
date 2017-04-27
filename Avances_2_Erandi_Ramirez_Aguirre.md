@@ -87,7 +87,14 @@ Corrí el programa con las cada secuencia por separado con los valores por defau
 
 El flag `-p` determina el tipo de plataforma, en este caso PacBio. Los otros comandos son `-m` es la longitud media de las lecturas, `-s` es la desviación estándar, `-c`es el coverage (el default es 8), y `trials` es el número de corridas (el default es 1).
 
-Este programa genera archivos tipo bed.
+Este programa genera archivos tipo bed. 
+
+
+
+#### Inconvenientes
+
+El primer intento fue generar las lecturas con SimRAD en R, sin embargo éstas sólo pueden exportarse en formato FASTA y pyrad sólo reconoce archivos con formato fastq. Esto es, las características intrísecas de calidad de las lecturas, en esta simulación no están.
+De todos modos anexo el script utilizado.
 
 ### Literatura consultada
 
