@@ -19,8 +19,8 @@ Las especies son:
 | Especie | ID |
 -----------------------------------------------------------
 |1. *T. azotonutricium*||NC_015577.1 |
-|2. *T. brennaborense*||NC_015500.1 |
-|3. *T. caldarium*||NC_015732.1 |
+||2. *T. brennaborense*||NC_015500.1 |
+|||3. *T. caldarium*||NC_015732.1 |
 |4. *T. denticola*||NC_002967.9 |
 |5. *T. pallidum*||NC_000919.1 |
 |6. *T. paraluiscuniculi*||NC_015714.1 |
