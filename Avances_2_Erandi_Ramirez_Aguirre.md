@@ -74,7 +74,7 @@ Después de tener listo el contenedor, instalé el programa
 
     wget https://github.com/ethanagbaker/SiLiCO/blob/master/releases/v1.0.1/SiLiCO-1.0.1.tar.gz?raw=true
 
-Seguí las instrucciones del repositorio de SiLiCO que se mencionan en el archivo READMe.md ([https://github.com/ethanagbaker/SiLiCO/blob/master/README.md](https://github.com/ethanagbaker/SiLiCO/blob/master/README.md)):
+Seguí las instrucciones del repositorio de SiLiCO que se mencionan en el archivo [README.md](https://github.com/ethanagbaker/SiLiCO/blob/master/README.md):
 
     tar -xvzf SiLiCO-1.0.0.tar.gz
     cd SiLiCO-1.0.0
