@@ -89,7 +89,7 @@ El flag `-p` determina el tipo de plataforma, en este caso PacBio. Los otros com
 
 Este programa genera archivos tipo bed.
 
-Literatura consultada
+### Literatura consultada
 
 Gray R. R., Mulligan . C.J, et al. 2006. Molecular evolution of the tprC, D, I, K, G, and J genes in the pathogenic genus *Treponema*. Mol. Biol. Evol. 23(11):2220-2233.
 Ochman H. and Moran N. A. 2001. Genes lost and genes found: evolution of bacterial pathogenesis and symbiosis. Science 292(5519):1096-1999.
