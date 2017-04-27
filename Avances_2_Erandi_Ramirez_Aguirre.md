@@ -34,7 +34,7 @@ Estas especies son bacterias que pueden ser patogénicas de humanos, conejos y v
 
 ##### Búsqueda y descarga de secuencias de genomas completos
 
-En la dirección de NCBI ([https://www.ncbi.nlm.nih.gov/genome/browse/](buscador)) busqué genomas completos de al menos cuatro especies del mismo género. Debido a que los datos de genomas de eucariontes no reunían mis condiciones al poner esos filtros de búsqueda, decidí usar los genomas bacterianos. Encontré 10 especies del género Treponema con genomas completos. Los descargué en formato FASTA.
+En la dirección de NCBI [buscador](https://www.ncbi.nlm.nih.gov/genome/browse/) busqué genomas completos de al menos cuatro especies del mismo género. Debido a que los datos de genomas de eucariontes no reunían mis condiciones al poner esos filtros de búsqueda, decidí usar los genomas bacterianos. Encontré 10 especies del género Treponema con genomas completos. Los descargué en formato FASTA.
 
 Con línea de comando sería:
 
@@ -53,7 +53,7 @@ o también, para bajar secuencias y guardarlas en una carpeta:
 
 Instalación del simulador SiLiCO (García-Baker et al. in press)
 
-A partir de una búsqueda de simuladores para generar secuencias en el buscador [https://omictools.com/](https://omictools.com/ "Omics Tools"), realicé una búesqueda con las palabras "simulation assembly". Seleccioné el programa SiLiCO porque en la simulación permite dar valores de media y desviación estándar de los fragmentos [SiLiCO](https://github.com/ethanagbaker/SiLiCO). 
+A partir de una búsqueda de simuladores para generar secuencias en el buscador [Omics Tools](https://omictools.com/), realicé una búesqueda con las palabras "simulation assembly". Seleccioné el programa SiLiCO porque en la simulación permite dar valores de media y desviación estándar de los fragmentos [SiLiCO](https://github.com/ethanagbaker/SiLiCO). 
 He trabajado en Docker porque no quiero instalar nada que "mate" mi computadora. SiLiCO requiere trabajar con lenguaje python, por lo que descargué el contenedor con python, con este comando:
 
     docker pull python
