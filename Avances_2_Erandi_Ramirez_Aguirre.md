@@ -36,15 +36,45 @@ Estas especies son bacterias que pueden ser patogénicas de humanos, conejos y v
 
 En la dirección de NCBI [buscador](https://www.ncbi.nlm.nih.gov/genome/browse/) busqué genomas completos de al menos cuatro especies del mismo género. Debido a que los datos de genomas de eucariontes no reunían mis condiciones al poner esos filtros de búsqueda, decidí usar los genomas bacterianos. Encontré 10 especies del género Treponema con genomas completos. Los descargué en formato FASTA.
 
-Con línea de comando sería:
+##### Simulación de lecturas generadas por el paquete SimRAD de R
 
-Para bajarlos en el directorio actual:
+###### Instalación del paquete de SimRAD
 
-  
+    source("https://bioconductor.org/biocLite.R")
+    biocLite()#instala los paquetes núcleo
+    biocLite(c("zlibbioc","ShortRead","Biostrings")) #para instalar los paquetes asociados a SimRAD
+    install.packages(c("SimRAD", repos=c("http://rstudio.org/_packages", "http://cran.rstudio.com"))) #para instalar SimRAD
+    
+Corrí las funciones para hacer una simulación con la enzima PStI, generando datos semejantes al RADseq original.
+####### 1. Crear un objeto con una secuencia de referencia. Función para jalar una secuencia de referencia en formato fasta
+
+`referencia<-ref.DNAseq(FASTA.file= "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticola.fasta", subselect.contigs =T, prop.contigs = 0.1)
+
+####### 2. Determinar los sitios de restricción. Comandos para crear los objetos que contengan los sitios de corte de alguna enzima de restricción
+####### enzima PstI: sitios de corte
+
+cs_5p1 <- "TGCA"
+cs_3p1 <- "ACGT" 
+
+####### 3. Realizar la digestión. Función para hacer una digestión simulada de la secuencia de referencia con los sitios de corte de la enzima de restricción
+
+simseq.dig <- insilico.digest(referencia, cs_5p1, cs_3p1, verbose=TRUE)
+
+####### 3.1 Observar los fragmentos resultantes. Comando para ver la primeras líneas del resultado de la digestión
+head(simseq.dig)
+
+####### 4. Crear un tipo de archivo para contener las secuencias. El comando DNAStringSet permite convertir a un tipo de archivo
+
+Treponema<-DNAStringSet(x= simseq.dig)
+
+
+####### 5. Exportar a un archivo los nuevos fragmentos. Comando para escribir un archivo FASTA con los fragmentos que se generaron en la digestión
+
+writeXStringSet(Treponema, "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticol.dig.fasta", append=FALSE, compress=T, compression_level=NA, format="fasta")
 
 ##### Simulación de lecturas generadas por la plataforma de secuenciación PacBio
 
-Instalación del simulador SiLiCO (García-Baker et al. in press)
+###### Instalación del simulador SiLiCO (García-Baker et al. in press)
 
 A partir de una búsqueda de simuladores para generar secuencias en el buscador [Omics Tools](https://omictools.com/), realicé una búesqueda con las palabras "simulation assembly". Seleccioné el programa SiLiCO porque en la simulación permite dar valores de media y desviación estándar de los fragmentos (ver aquí [SiLiCO](https://github.com/ethanagbaker/SiLiCO) ). 
 He trabajado en Docker porque no quiero instalar nada que "mate" mi computadora. SiLiCO requiere trabajar con lenguaje python, por lo que descargué el contenedor con python, con este comando:
@@ -86,8 +116,7 @@ Este programa genera archivos tipo bed.
 
 #### Inconvenientes
 
-El primer intento fue generar las lecturas con SimRAD en R, sin embargo éstas sólo pueden exportarse en formato FASTA y pyrad sólo reconoce archivos con formato fastq. Esto es, las características intrísecas de calidad de las lecturas, en esta simulación no están.
-De todos modos anexo el script utilizado.
+El primer intento fue generar las lecturas con SimRAD en R y con SiLiCO, sin embargo éstas sólo pueden exportarse en formato FASTA y ipyrad sólo reconoce archivos con formato fastq. Esto es, las características intrísecas de calidad de las lecturas, en esta simulación no están.
 
 ### Literatura consultada
 
