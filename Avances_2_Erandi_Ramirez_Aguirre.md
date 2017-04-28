@@ -54,7 +54,8 @@ Corrí las funciones para hacer una simulación con la enzima PStI, generando da
     `referencia<-ref.DNAseq(FASTA.file= "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticola.fasta", subselect.contigs =T, prop.contigs = 0.1)`
     
 2. Determinar los sitios de restricción. Comandos para crear los objetos que contengan los sitios de corte de alguna enzima de restricción
- enzima PstI: sitios de corte
+
+ Sitios de corte de la enzima PstI
 
     `cs_5p1 <- "TGCA"`
 
