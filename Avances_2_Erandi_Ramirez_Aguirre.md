@@ -51,13 +51,13 @@ Corrí las funciones para hacer una simulación con la enzima PStI, generando da
 
  1. Crear un objeto con una secuencia de referencia. Función para jalar una secuencia de referencia en formato fasta
 
-    referencia<-ref.DNAseq(FASTA.file= "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticola.fasta", subselect.contigs =T, prop.contigs = 0.1)
+````referencia<-ref.DNAseq(FASTA.file= "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticola.fasta", subselect.contigs =T, prop.contigs = 0.1)
 
  2. Determinar los sitios de restricción. Comandos para crear los objetos que contengan los sitios de corte de alguna enzima de restricción
  enzima PstI: sitios de corte
 
-    cs_5p1 <- "TGCA"
-    cs_3p1 <- "ACGT" 
+     cs_5p1 <- "TGCA"
+     cs_3p1 <- "ACGT" 
 
  3. Realizar la digestión. Función para hacer una digestión simulada de la secuencia de referencia con los sitios de corte de la enzima de restricción
 
