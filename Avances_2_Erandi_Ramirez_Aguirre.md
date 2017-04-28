@@ -38,6 +38,8 @@ En la dirección de NCBI [buscador](https://www.ncbi.nlm.nih.gov/genome/browse/)
 
 ##### Simulación de lecturas generadas por el paquete SimRAD de R
 
+No puedo generar un reporte de este script porque colapsa el programa R, debido a que requiere mucha memoria. Por esto anexo los comandos que seguí para hacer las simulaciones, con el ejemplo de la especie *T. denticola*.
+
 ###### Instalación del paquete de SimRAD
 
     source("https://bioconductor.org/biocLite.R")
@@ -45,31 +47,32 @@ En la dirección de NCBI [buscador](https://www.ncbi.nlm.nih.gov/genome/browse/)
     biocLite(c("zlibbioc","ShortRead","Biostrings")) #para instalar los paquetes asociados a SimRAD
     install.packages(c("SimRAD", repos=c("http://rstudio.org/_packages", "http://cran.rstudio.com"))) #para instalar SimRAD
     
-Corrí las funciones para hacer una simulación con la enzima PStI, generando datos semejantes al RADseq original.
-####### 1. Crear un objeto con una secuencia de referencia. Función para jalar una secuencia de referencia en formato fasta
+Corrí las funciones para hacer una simulación con la enzima PStI, generando datos semejantes al RADseq original. 
+
+ 1. Crear un objeto con una secuencia de referencia. Función para jalar una secuencia de referencia en formato fasta
 
     referencia<-ref.DNAseq(FASTA.file= "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticola.fasta", subselect.contigs =T, prop.contigs = 0.1)
 
-####### 2. Determinar los sitios de restricción. Comandos para crear los objetos que contengan los sitios de corte de alguna enzima de restricción
-####### enzima PstI: sitios de corte
+ 2. Determinar los sitios de restricción. Comandos para crear los objetos que contengan los sitios de corte de alguna enzima de restricción
+ enzima PstI: sitios de corte
 
     cs_5p1 <- "TGCA"
     cs_3p1 <- "ACGT" 
 
-####### 3. Realizar la digestión. Función para hacer una digestión simulada de la secuencia de referencia con los sitios de corte de la enzima de restricción
+ 3. Realizar la digestión. Función para hacer una digestión simulada de la secuencia de referencia con los sitios de corte de la enzima de restricción
 
     simseq.dig <- insilico.digest(referencia, cs_5p1, cs_3p1, verbose=TRUE)
 
-####### 3.1 Observar los fragmentos resultantes. Comando para ver la primeras líneas del resultado de la digestión
+ 3.1 Observar los fragmentos resultantes. Comando para ver la primeras líneas del resultado de la digestión
 
     head(simseq.dig)
 
-####### 4. Crear un tipo de archivo para contener las secuencias. El comando DNAStringSet permite convertir a un tipo de archivo
+ 4. Crear un tipo de archivo para contener las secuencias. El comando DNAStringSet permite convertir a un tipo de archivo
 
     Treponema<-DNAStringSet(x= simseq.dig)
 
 
-####### 5. Exportar a un archivo los nuevos fragmentos. Comando para escribir un archivo FASTA con los fragmentos que se generaron en la digestión
+ 5. Exportar a un archivo los nuevos fragmentos. Comando para escribir un archivo FASTA con los fragmentos que se generaron en la digestión
 
     writeXStringSet(Treponema, "C:\\Users\\Erandi\\Desktop\\Bioinformatica\\ProyectoFinal_ERA\\T.denticol.dig.fasta", append=FALSE, compress=T, compression_level=NA, format="fasta")
 
