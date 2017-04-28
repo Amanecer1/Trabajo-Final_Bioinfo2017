@@ -6,7 +6,7 @@
 
 ### Justificación
 
-El avance de la tecnología (en particular, la computación) en conjunto con los campos de la bioquímica y la biología molecular han permitido el auge de la genómica. Ésta se define como la ciencia que estudia los genomas, sus propiedades, su evolución, la integración con los procesos celulares, etc. Actualmente se ha generado información acerca de la genética de diversos organismos que está incluida en repositorios especializados y generalmente de libre acceso. Esta apertura del conocimiento permite aprovechar los datos que han sido obtenidos de manera independiente por diferentes grupos de trabajo y analizarlos para generar nuevo conocimiento.
+El avance de la tecnología (en particular, la computación) en conjunto con los campos de la bioquímica y la biología molecular han permitido el auge de la genómica. Ésta se define como la ciencia que estudia los genomas, sus propiedades, su evolución, la integración con los procesos celulares, etc. Actualmente se ha generado información acerca de la genética de diversos organismos que está incluida en repositorios especializados y generalmente de libre acceso. Esta apertura del conocimiento permite aprovechar los datos que han sido obtenidos de manera independiente por diferentes grupos de trabajo y analizarlos para generar nuevo conocimiento o para validar el que existe.
 
 
 ### Sistemas de estudio
@@ -117,13 +117,26 @@ Este programa genera archivos tipo bed.
 
 #### Inconvenientes
 
-El primer intento fue generar las lecturas con SimRAD en R y con SiLiCO, sin embargo éstas sólo pueden exportarse en formato FASTA y ipyrad sólo reconoce archivos con formato fastq. Esto es, las características intrísecas de calidad de las lecturas, en esta simulación no están.
+El primer intento fue generar las lecturas con SimRAD en R y con SiLiCO, sin embargo éstas sólo pueden exportarse en formato FASTA y ipyrad sólo reconoce archivos con formato fastq. Esto es, las características intrísecas de calidad de las lecturas, en esta simulación no están. Por esto procederé a hacer un análsis comparativo de las regiones de patogenicidad entre las especies patógenas y sus diferencias con las especies facultativas y obligadas endosimbióticas.
+
+##### Método propuesto
+
+1. Buscar los genes tprcC, D, I, K, G (Gray y Mulligan 2006) de patogenicidad.
+
+2. Encontré el programa MetaSim. Este programa simula lecturas y puede ser utilizado para diseñar un metagenoma (Richter et al. 2008).
+
+3. Quisera seguir los pasos recomendados para realizar simulaciones a diferentes niveles, propuestos en Escalona et al. 2016. Para generar archivos de calidad fastq, había estado considerando el programa FASTQSim, estoy terminando la instalación. No estaba segura del uso de este programa, sin embargo en el artículo mencionado ya lo citan.
+
 
 ### Literatura consultada
+
+Escalona; M., Rocha, S., Posada, D. 2016. A comparison of toools for the simulation of genomic next-generation sequencing data. Nature 17: 459-469.
 
 Gray R. R., Mulligan . C.J, et al. 2006. Molecular evolution of the tprC, D, I, K, G, and J genes in the pathogenic genus *Treponema*. Mol. Biol. Evol. 23(11):2220-2233.
 
 Ochman H. and Moran N. A. 2001. Genes lost and genes found: evolution of bacterial pathogenesis and symbiosis. Science 292(5519):1096-1999.
+
+Richter DC, Ott F, Auch AF, Schmid R, Huson DH. 2008. MetaSim—A Sequencing Simulator for Genomics and Metagenomics. PLoS ONE 3(10): e3373. doi:10.1371/journal.pone.0003373 
 
 Roads, A. and Fai Au, K. 2015. PacBio Sequencing and Applications. Genomics, Proteomics and Bioinformatics 13(5): 278-289.
 
