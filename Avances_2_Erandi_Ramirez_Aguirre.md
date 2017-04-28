@@ -40,7 +40,7 @@ Con línea de comando sería:
 
 Para bajarlos en el directorio actual:
 
-    wget https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=genome&rettype=fasta&id=NC_015577.1 NC_015500.1 NC_015732.1 NC_002967.9 NC_000919.1 NC_015714.1 NC_022097.1 NC_015578.1 NZ_CP009228.1 NC_015385.1
+  
 
 ##### Simulación de lecturas generadas por la plataforma de secuenciación PacBio
 
