@@ -53,7 +53,7 @@ Con los fragmentos simulados en formato FASTA, correr el programa ART para simul
 
 ##### Paso 2. Filtrar las secuencias
 
-Le moví el parámetro ## [17] [filter_min_trim_len]: Min length of reads after adapter trim de 33 (default) a 20 para que las secuencias pasaran.
+Le moví el parámetro "## [17] [filter_min_trim_len]: Min length of reads after adapter trim" de 33 (default) a 20 para que las secuencias pasaran.
 
     `ipyrad -p params-iptest.txt -s 2
 
