@@ -67,6 +67,6 @@ Análsis filogenéticos
 
 ##Pipeline de trabajo
 
-(Pipeline)[https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg] para trabajar con simulación y reensamblaje de secuencias para análisis filogenéticos.
+[Pipeline](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg) para trabajar con simulación y reensamblaje de secuencias para análisis filogenéticos.
 
-(Archivo md)[] del trabajo final.
+[Archivo md]() del trabajo final.
