@@ -16,7 +16,7 @@ Subdirectorio de archivos asociados a indicadores de calidad simulados con ART: 
 
 Contiene los archivos obtenidos de ART
 
-(Imagen de ejemplo)[]
+[Imagen de ejemplo]()
 
 Esta carpeta es la que se usará para reensamblar (casi) "de novo" los genomas en pyrad.
 
