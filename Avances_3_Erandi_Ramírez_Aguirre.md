@@ -49,6 +49,9 @@ Con los fragmentos simulados en formato FASTA, correr el programa ART para simul
 
 ##### Paso 1. Demultiplexar o desagrupar las secuencias de acuerdo a los adaptadores
 
+Le moví a los parámetros "## [4] [sorted_fastq_path]: Location of demultiplexed/sorted fastq files a ./*.fq  
+"## [5] [assembly_method]: Assembly method (denovo, reference, denovo+reference, denovo-reference)" 
+
     `ipyrad -p params-iptest.txt -s 1
 
 ##### Paso 2. Filtrar las secuencias
