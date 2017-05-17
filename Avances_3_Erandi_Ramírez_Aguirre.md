@@ -49,10 +49,18 @@ Con los fragmentos simulados en formato FASTA, correr el programa ART para simul
 
 ##### Paso 1. Demultiplexar o desagrupar las secuencias de acuerdo a los adaptadores.
 
-Le moví al parámetro "## [4] [sorted_fastq_path]: Location of demultiplexed/sorted fastq files a     `./*.fq
+Le moví al parámetro "## [4] [sorted_fastq_path]: Location of demultiplexed/sorted fastq files a
 
-porque ART genera archivos .fq; y al parámetro
-"## [5] [assembly_method]: Assembly method (denovo, reference, denovo+reference, denovo-reference)" a     `de novo
+    `./*.fq 
+    
+porque ART genera archivos *.fq 
+
+y al parámetro
+    
+"## [5] [assembly_method]: Assembly method (denovo, reference, denovo+reference, denovo-reference)" a     
+
+    `de novo
+Comando
 
     `ipyrad -p params-iptest.txt -s 1
 
@@ -72,6 +80,6 @@ Análsis filogenéticos
 
 ##Pipeline de trabajo
 
-(Pipeline)[https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg] para trabajar con simulación y reensamblaje de secuencias para análisis filogenéticos.
+[Pipeline](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg) para trabajar con simulación y reensamblaje de secuencias para análisis filogenéticos.
 
 [Archivo md](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Trabajo_final.md) del trabajo final.
