@@ -28,7 +28,7 @@ Al correr pyrad se generan automáticamente las carpetas de cada paso del proces
 
 # PIPELINE DEL TRABAJO
 
-(https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg)
+https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg
 
 ### Paso 1
 
