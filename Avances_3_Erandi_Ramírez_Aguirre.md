@@ -37,7 +37,7 @@ Donde "-sam" significa: generar el archivo .sam
 " -l" es el largo de la lectura
 "-f" es el fold coverage
 
-(https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/ART_params.md)
+[Parámetros de ART](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/ART_params.md)
 
 Para que**ART** genere una simulación de lecturas "single end", requiere el archivo de entrada, la extensión "archivo_single", el largo de la lectura y el fold coverage. Adicionalmente se puede elegir la plataforma de secuenciación, que puede ser:
 
@@ -57,7 +57,7 @@ Con los fragmentos simulados en formato FASTA, correr el programa ART para simul
 
 ### Reensamblaje en ipyrad
 
-(https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/params-iptest.txt)
+[Parámetros de pyrad](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/params-iptest.txt)
 
 ##### Paso 1. Demultiplexar o desagrupar las secuencias de acuerdo a los adaptadores.
 
