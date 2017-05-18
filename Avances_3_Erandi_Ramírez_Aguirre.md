@@ -88,9 +88,9 @@ Le moví el parámetro "## [14] [clust_threshold]: Clustering threshold for de n
 
     `ipyrad -p params-iptest.txt -s 3
 
-Análsis filogenéticos
+Análsis filogenéticos... continuará
 
-##Pipeline de trabajo
+## Pipeline de trabajo
 
 [Pipeline](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Pipeline.jpg) para trabajar con simulación y reensamblaje de secuencias para análisis filogenéticos.
 
