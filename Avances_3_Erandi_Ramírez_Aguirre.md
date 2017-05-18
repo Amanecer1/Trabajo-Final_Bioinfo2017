@@ -33,9 +33,11 @@ Para correr el programa ART, es necesario estar en la carpeta descomprimida y co
 
     `./art_illumina -sam -i ../../../datos/ProyectoFinal_ERA/T.azotonutricium.fasta -l 25 -f 6 -o ../../../datos/ProyectoFinal_ERA/digeridos_SimRAD/calidades/T.azo_single 
 
-Donde -sam significa:
+Donde "-sam" significa: 
+" -l" es el largo de la lectura
+"-f" es el full coverage
 
-Este programa genera archivos fastq que pueden ser leídos por el programa FASTQC, (imagen de ejemplo)[]
+Este programa genera archivos fastq que pueden ser leídos por el programa FASTQC, [imagen de ejemplo]()
 
 #### Paquetería de R, uso de librerías de bioconductor
 Uso de un paquete de simulación SImRAD y alineación con msn.
