@@ -22,9 +22,9 @@ Para correr este programa tuve algunos problemas, ya que la instalación de las 
 
 Después de leer en internet y no poder resolver mi problema, le pregunté a un informático. Estuvimos una hora intentando resolver el problema hasta que lo logramos. Entre los comandos que utilizamos para lograr instalar y encontrar las dependencias usamos el comando:
 
-    `Este comando permite hacer un enlace simbólico (parecido a un acceso directo) a la librería gnu
+    # Este comando permite hacer un enlace simbólico (parecido a un acceso directo) a la librería gnu
     `ln -s /usr/lib/x86_64-linux-gnu/libgsl.co.19 /usr/lib/x86_64-linux-gnu/libgsl.so.0
-    `Este comando permite compilar e instalar la paquetería base que necesita ART para correr
+    # Este comando permite compilar e instalar la paquetería base que necesita ART para correr
     `../configure --prefix=/test/
 
      àpt-get install 
@@ -34,7 +34,9 @@ Para correr el programa ART, es necesario estar en la carpeta descomprimida y co
     `./art_illumina -sam -i ../../../datos/ProyectoFinal_ERA/T.azotonutricium.fasta -l 25 -f 6 -o ../../../datos/ProyectoFinal_ERA/digeridos_SimRAD/calidades/T.azo_single 
 
 Donde "-sam" significa: generar el archivo .sam
+
 " -l" es el largo de la lectura
+
 "-f" es el fold coverage
 
 [Parámetros de ART](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/ART_params.md)
@@ -49,11 +51,9 @@ Para que**ART** genere una simulación de lecturas "single end", requiere el arc
 Este programa genera archivos fastq que pueden ser leídos por el programa FASTQC, [imagen de ejemplo](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/T.azoto_single_fastqc.html)
 
 #### Paquetería de R, uso de librerías de bioconductor
+
 Uso de un paquete de simulación SImRAD y alineación con msn.
 Con esta paquetería puedo alinear las secuencias digeridas de los genomas y poder comparar la variación. 
-
-
-Con los fragmentos simulados en formato FASTA, correr el programa ART para simular las condiciones de calidad
 
 ### Reensamblaje en ipyrad
 
