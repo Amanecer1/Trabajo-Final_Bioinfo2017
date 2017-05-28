@@ -1,0 +1,11 @@
+# En el sistema operativo Linux o en un contenedor de Linux. Asumiendo que se tiene instalado todo paquete necesario para correr ART (definido en el README de ART o descubierto después) 
+
+wget https://www.niehs.nih.gov/research/resources/assets/docs/artsrcmountrainier20160605linuxtgz.t
+
+tar -xvzf artsrcmountrainier20160605linuxtgz.tgz
+
+# En mi caso, el directorio ART está en un directorio llamando test, la cual está en el directorio root. En root también está la carpeta datos, la cual contiene la carpeta ProyectoFinal_ERA que tiene dentro los genomas completos.
+# Dentro de la carpeta art_src_MountRainier_Linux/
+#correr el siguiente ejemplo
+
+./art_illumina -sam -i ../../../datos/ProyectoFinal_ERA/T.azotonutricium.fasta -l 25 -f 6 -o ../../../datos/ProyectoFinal_ERA/digeridos_SimRAD/calidades/T.azoto_single
