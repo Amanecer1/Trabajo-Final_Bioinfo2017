@@ -81,6 +81,6 @@ Contiene los resultados del BLAST, al comparar la especie *Treponema azotonutric
 
 
 
-#Pipeline del proyecto
+# Pipeline del proyecto
 https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Proyecto_Final/Pipeline.jpg
 
