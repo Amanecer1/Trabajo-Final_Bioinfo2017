@@ -1,6 +1,6 @@
 # README 
 
-Este trabajo se divide en tres partes. Debido a que se basa en genomas completos de bacterias del género *Treponema*.
+Este trabajo se divide en tres partes. Debido a que se basa en genomas completos de bacterias del género *Treponema* sólo pongo un genoma.
 
 Los genomas completos fueron obtenidos de NCBI, con el [buscador de genomas](https://www.ncbi.nlm.nih.gov/genome/browse/). Los ID's de las especies son:
 
