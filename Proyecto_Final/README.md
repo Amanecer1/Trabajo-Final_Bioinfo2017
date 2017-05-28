@@ -34,7 +34,7 @@ El script "alineamientos.R" instala el paquete "msa" de Bioconductor. Este paque
 
 ## Gráficas en R
 
-El script "graficas.R" hace una pequeña filogenia inventada (aunque con algo de información verídica, al abrir se da la información bibliográfica). La segunda parte de este script describe brevemente la relación entre el tamaño de los genomas y el número de proteínas y el contenido GC. 
+El script "graficas.R" hace una pequeña filogenia inventada (aunque con algo de información verídica, al abrir se da la información bibliográfica). La segunda parte de este script describe brevemente la relación entre el tamaño de los genomas y el número de proteínas y el contenido GC, esta información se encuentra en un archivo llamado "detalles.csv" en la carpeta raíz. 
 
 -----------
 
@@ -55,7 +55,20 @@ El archivo ,txt [Parámetros de pyrad](https://github.com/Amanecer1/Trabajo-Fina
 
 ## Directorios
 
-### Base: Proyecto_Final
+### Raíz: Proyecto_Final
+
+Contiene: 
+
+1. Archivo de texto simple llamado "ART" con una explicación breve del uso del programa.
+2. Archivo ART_params.md que describe los parámetros que ART puede usar.
+3. Pipeline del trabajo como imagen.
+4. El README.md del proyecto.
+5. La imagen del árbol filogenético hipotético llamado "arbolito.jpg".
+6. La imagen de las gráficas con el tamaño de los genomas en Mb y su relación con el contenido GC y el número de proteínas, este archivo se llama "detalles.jpg"
+7. El "archivo detalles.csv" que se utilizó para crear el archivo "detalles.jpg"
+8. Carpeta bin
+9. Carpeta BLAST
+10. Carpeta genomas_completos
 
 #### bin
 
@@ -63,11 +76,11 @@ Contiene los scripts que usé en R: SimRAD_Treponema.R, alineamientos.R, grafica
 
 #### genomas_completos
 
-Contiene las secuencias de los genomas completos en archivos tipo fasta.
+Contiene las secuencias de los genomas completos en archivos tipo fasta. También contiene la subcarpeta "digeridos_SimRAD".
 
 ##### Subcarpeta digeridos_SimRAD
 
-Contiene los archivos fasta generados en la simulación. Sin embargo, no son legibles por cualquier programa porque está decodificados como objetos DNAStringSet (tipo de objeto especial para manipular en SimRAD, msa, etc).
+Contiene los archivos fasta generados en la simulación. Sin embargo, no son legibles por cualquier programa porque está decodificados como objetos DNAStringSet (tipo de objeto especial para manipular en SimRAD, msa, etc). Esta carperta también contiene la subcarpeta "Calidades".
 
 ###### Subcarpeta Calidades
 
