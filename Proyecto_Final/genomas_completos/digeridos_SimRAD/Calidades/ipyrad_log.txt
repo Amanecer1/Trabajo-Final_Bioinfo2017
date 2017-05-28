@@ -1,0 +1,579 @@
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.15]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-04-16 15:35
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.8-moby', '#1 SMP Wed Feb 8 09:56:43 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.15]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-04-27 23:41
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.8-moby', '#1 SMP Wed Feb 8 09:56:43 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.17]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-04-28 00:17
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.8-moby', '#1 SMP Wed Feb 8 09:56:43 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.17]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-04-28 00:21
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.8-moby', '#1 SMP Wed Feb 8 09:56:43 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:15
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:16
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:19
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:20
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '2', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:21
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '2', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:22
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '3', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:22:53,645 	pid=389 	[assembly.py]	ERROR 	    No Samples ready to be clustered. First run step 2.
+    
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:26
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '2', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:27
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '3', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:27:55,059 	pid=574 	[assembly.py]	ERROR 	    No Samples ready to be clustered. First run step 2.
+    
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:38
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '2', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:41
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '3', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:41:34,698 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+
+2017-05-16 16:41:35,250 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+
+2017-05-16 16:41:35,482 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+
+2017-05-16 16:41:36,045 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+
+2017-05-16 16:41:36,262 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+
+2017-05-16 16:41:36,778 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+
+2017-05-16 16:41:37,299 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+
+2017-05-16 16:41:37,562 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+
+2017-05-16 16:41:38,452 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+
+2017-05-16 16:41:38,876 	pid=799 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+
+2017-05-16 16:41:39,034 	pid=772 	[cluster_within.py]	ERROR 	sample [T.primit_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+)
+2017-05-16 16:41:39,034 	pid=772 	[cluster_within.py]	ERROR 	sample [T.azoto_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.succini_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.put_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.paraluiscu_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.bren_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.dent_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.pedis_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+)
+2017-05-16 16:41:39,035 	pid=772 	[cluster_within.py]	ERROR 	sample [T.cald_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+)
+2017-05-16 16:41:39,036 	pid=772 	[cluster_within.py]	ERROR 	sample [T.palli_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.7', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.7/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+)
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:44
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '4', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:44:30,391 	pid=899 	[assembly.py]	ERROR 	    No Samples ready for estimation. First run step 3.
+    
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:46
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '4', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:46:55,023 	pid=967 	[assembly.py]	ERROR 	    No Samples ready for estimation. First run step 3.
+    
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:47
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '4', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:48:03,177 	pid=1035 	[assembly.py]	ERROR 	    No Samples ready for estimation. First run step 3.
+    
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:48
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '3', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:48:40,317 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+
+2017-05-16 16:48:40,711 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+
+2017-05-16 16:48:40,955 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+
+2017-05-16 16:48:41,495 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+
+2017-05-16 16:48:41,719 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+
+2017-05-16 16:48:42,180 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+
+2017-05-16 16:48:42,723 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+
+2017-05-16 16:48:43,138 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+
+2017-05-16 16:48:43,391 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+
+2017-05-16 16:48:43,660 	pid=1148 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+
+2017-05-16 16:48:43,872 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.primit_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+)
+2017-05-16 16:48:43,873 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.azoto_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+)
+2017-05-16 16:48:43,874 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.succini_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+)
+2017-05-16 16:48:43,874 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.put_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+)
+2017-05-16 16:48:43,879 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.paraluiscu_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+)
+2017-05-16 16:48:43,880 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.bren_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+)
+2017-05-16 16:48:43,880 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.dent_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+)
+2017-05-16 16:48:43,880 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.pedis_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+)
+2017-05-16 16:48:43,881 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.cald_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+)
+2017-05-16 16:48:43,881 	pid=1103 	[cluster_within.py]	ERROR 	sample [T.palli_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.5', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.5/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+)
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:49
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': True, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': None, 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:51
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '3', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:52:03,118 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+
+2017-05-16 16:52:03,485 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+
+2017-05-16 16:52:03,709 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+
+2017-05-16 16:52:04,639 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+
+2017-05-16 16:52:04,851 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+
+2017-05-16 16:52:05,339 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+
+2017-05-16 16:52:05,560 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+
+2017-05-16 16:52:05,796 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+
+2017-05-16 16:52:06,058 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+
+2017-05-16 16:52:06,372 	pid=1272 	[cluster_within.py]	ERROR 	error ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+
+2017-05-16 16:52:06,573 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.primit_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.primit_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.primit_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.primit_single_derep.fastq)
+)
+2017-05-16 16:52:06,574 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.azoto_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.azoto_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.azoto_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.azoto_single_derep.fastq)
+)
+2017-05-16 16:52:06,575 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.succini_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.succini_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.succini_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.succini_single_derep.fastq)
+)
+2017-05-16 16:52:06,575 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.put_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.put_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.put_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.put_single_derep.fastq)
+)
+2017-05-16 16:52:06,575 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.paraluiscu_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.paraluiscu_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.paraluiscu_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.paraluiscu_single_derep.fastq)
+)
+2017-05-16 16:52:06,575 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.bren_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.bren_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.bren_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.bren_single_derep.fastq)
+)
+2017-05-16 16:52:06,576 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.dent_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.dent_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.dent_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.dent_single_derep.fastq)
+)
+2017-05-16 16:52:06,576 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.pedis_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.pedis_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.pedis_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.pedis_single_derep.fastq)
+)
+2017-05-16 16:52:06,576 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.cald_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.cald_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.cald_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.cald_single_derep.fastq)
+)
+2017-05-16 16:52:06,576 	pid=1241 	[cluster_within.py]	ERROR 	sample [T.palli_single] failed in step [cluster]; error: IPyradError(cmd ['/root/miniconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64', '-cluster_smallmem', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq', '-strand', 'plus', '-query_cov', '0.75', '-id', '0.2', '-minsl', '0.5', '-userout', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.palli_single.utemp', '-userfields', 'query+target+id+gaps+qstrand+qcov', '-maxaccepts', '1', '-maxrejects', '0', '-threads', '2', '-notmatched', '/datoscontenedor/digeridos_SimRAD/Calidades/iptest_clust_0.2/T.palli_single.htemp', '-fasta_width', '0', '-fastq_qmax', '100', '-fulldp', '-usersort']: vsearch v2.0.3_linux_x86_64, 1.9GB RAM, 2 cores
+https://github.com/torognes/vsearch
+
+
+
+Unable to read from file (/datoscontenedor/digeridos_SimRAD/Calidades/iptest_edits/T.palli_single_derep.fastq)
+)
+
+ -------------------------------------------------------------
+  ipyrad [v.0.6.19]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2017-05-16 16:56
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': False, 'cores': 0, 'params': 'params-iptest.txt', 'branch': None, 'steps': '4', 'debug': False, 'new': None, 'MPI': False}
+  Platform info: ('Linux', '06f3b96a4566', '4.9.27-moby', '#1 SMP Thu May 11 04:01:18 UTC 2017', 'x86_64')2017-05-16 16:57:01,704 	pid=1368 	[assembly.py]	ERROR 	    No Samples ready for estimation. First run step 3.
+    

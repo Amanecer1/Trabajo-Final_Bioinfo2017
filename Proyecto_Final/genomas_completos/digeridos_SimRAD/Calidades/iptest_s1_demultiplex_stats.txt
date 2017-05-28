@@ -1,0 +1,11 @@
+                     reads_raw
+T.azoto_single          925356
+T.bren_single           733338
+T.cald_single           777438
+T.dent_single           682368
+T.palli_single          273118
+T.paraluiscu_single     272010
+T.pedis_single          693438
+T.primit_single         974364
+T.put_single            671256
+T.succini_single        655644

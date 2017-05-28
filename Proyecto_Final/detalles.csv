@@ -1,0 +1,11 @@
+Species,Genome_size(Mb),GC%,Proteins,habit
+T_azotonutricium,3.86,49.8,3345,endo
+T_brennaborense,3.06,51.5,2609,patogen
+T_caldarium,3.24,45.6,2828,facultative
+T_denticola,2.84,37.9,2767,patogen
+T_pallidum,1.14,52.8,1031,patogen
+T_paraluiscuniculi,1.13,52.7,976,patogen
+T_pedis,2.89,36.9,2473,patogen
+T_primitia,4.06,50.8,3450,endo
+T_putidum,2.8,37.3,2268,patogen
+T_succinifasciens,2.73,39.2,2502,free
